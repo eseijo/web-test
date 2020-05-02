@@ -1,0 +1,16 @@
+.Contact {
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
+
+.column {
+    flex-grow: 1;
+}
+
+.svg-inline--fa {
+    padding: 5px;
+}

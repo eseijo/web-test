@@ -1,0 +1,70 @@
+.Info {
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: black;
+}
+
+.services-row {
+    display: flex;
+    width: 100%;
+    height: 10vh;
+}
+
+.services-row div {
+    flex-grow: 1;
+    cursor: pointer;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    transition: border 0.1s ease-in;
+}
+
+.services-row div:not(.selected):hover {
+    border-bottom: 3px solid #5ac8df;
+ }
+
+.services-row div.selected {
+    border-bottom: 3px solid #facb0b;
+    transition: border 0.5s ease-in;
+ }
+
+.service-description {
+    height: auto;
+}
+
+.service-description .show{
+    display: block;
+}
+
+.service-description .hide{
+    display: none;
+}
+
+#personalized-consultation {
+    background-image: url('../../../assets/personalized_consultation.png');
+}
+
+#personalized-consultation.selected {
+    background-image: url('../../../assets/personalized_consultation.png');
+}
+
+#workshops {
+    background-image: url('../../../assets/workshops.png');
+}
+
+#workshops.selected {
+    background-image: url('../../../assets/workshops.png');
+}
+
+#colaborations {
+    background-image: url('../../../assets/colaborations.png');
+}
+
+#colaborations.selected {
+    background-image: url('../../../assets/colaborations.png');
+}

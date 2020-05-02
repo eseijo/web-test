@@ -1,0 +1,21 @@
+.About {
+    min-height: 80vh;
+    min-width: 100vw;
+}
+
+.About .columns {
+    display: flex;
+}
+
+.column {
+    flex-grow: 1;
+    width: 100%;
+}
+
+.profile {
+    width: 50%;
+}
+
+.columns p {
+    font-size: 20px;
+}
