@@ -46,19 +46,19 @@
 }
 
 #personalized-consultation {
-    background-image: url('../../../assets/personalized_consultation.png');
+    background-image: url('../../../assets/personalized_consultation1.png');
 }
 
 #personalized-consultation.selected {
-    background-image: url('../../../assets/personalized_consultation.png');
+    background-image: url('../../../assets/personalized_consultation1_alt.png');
 }
 
 #workshops {
-    background-image: url('../../../assets/workshops.png');
+    background-image: url('../../../assets/workshops1.png');
 }
 
 #workshops.selected {
-    background-image: url('../../../assets/workshops.png');
+    background-image: url('../../../assets/workshops1_alt.png');
 }
 
 #colaborations {
@@ -66,5 +66,5 @@
 }
 
 #colaborations.selected {
-    background-image: url('../../../assets/colaborations.png');
+    background-image: url('../../../assets/colaborations_alt.png');
 }
