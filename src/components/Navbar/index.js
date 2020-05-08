@@ -15,14 +15,14 @@ class Navbar extends Component {
 
     render() {
         return (
-            <nav className="fixed-nav">
+            <nav className='fixed-nav'>
                 <ul>
-                    <li className="main-button">
-                        <img className="navbar-logo" src={logo} />
+                    <li className='main-button'>
+                        <img className='navbar-logo' src={logo} />
                     </li>
-                    <li className="info-button">Servicios</li>
-                    <li className="about-button">Sobre mí</li>
-                    <li className="contact-button">Contacto</li>
+                    <li className='info-button'>Servicios</li>
+                    <li className='about-button'>Sobre mí</li>
+                    <li className='contact-button'>Contacto</li>
                 </ul>
             </nav>
         );

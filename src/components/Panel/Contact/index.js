@@ -12,8 +12,8 @@ class Contact extends Component {
 
 
     return (
-      <div className="Contact">
-        <div className="column social">
+      <div className='Contact'>
+        <div className='column social'>
           <h3>¡Sígueme y no dudes en contactar conmigo!</h3>
           <FontAwesomeIcon icon={faEnvelope}/>
           <FontAwesomeIcon icon={faLinkedin}/>
@@ -21,7 +21,7 @@ class Contact extends Component {
           <FontAwesomeIcon icon={faInstagram}/>
           <FontAwesomeIcon icon={faResearchgate}/>
         </div>
-        {/* <div className="column ig-feed">
+        {/* <div className='column ig-feed'>
           <h3>IG Feed</h3>
         </div> */}
       </div>

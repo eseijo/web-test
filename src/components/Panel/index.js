@@ -19,7 +19,7 @@ class Panel extends Component {
       tag = <Banner></Banner>;
     }
     return (
-      <div className="Panel">
+      <div className='Panel'>
         {tag}
       </div>
     );

@@ -22,13 +22,13 @@ class App extends Component {
 
     return (
       <ThemeProvider theme={theme}>
-        <div className="App">
+        <div className='App'>
           <Navbar></Navbar>
-          <Panel content="Main"></Panel>
-          <Panel content="Info"></Panel>
-          <Panel content="Banner"></Panel>
-          <Panel content="About"></Panel>
-          <Panel content="Contact"></Panel>
+          <Panel content='Main'></Panel>
+          <Panel content='Info'></Panel>
+          <Panel content='Banner'></Panel>
+          <Panel content='About'></Panel>
+          <Panel content='Contact'></Panel>
         </div>
       </ThemeProvider>
     );
