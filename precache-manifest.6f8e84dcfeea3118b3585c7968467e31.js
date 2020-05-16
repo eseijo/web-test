@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aaba307b7fadec3c1522fc059ae7f5d9",
-    "url": "/web-test/static/media/logo_no_name.aaba307b.png"
+    "revision": "0a05286670d723c21b7d33d90639fff5",
+    "url": "/web-test/static/media/main_background_light.0a052866.jpg"
   },
   {
-    "revision": "d4467c81a2b88a98b169",
-    "url": "/web-test/static/css/main.6ea5c220.chunk.css"
+    "revision": "d3703071aefbb9d61331",
+    "url": "/web-test/static/css/main.24a0e698.chunk.css"
   },
   {
     "revision": "b13c75971e64f6d85d03",
@@ -16,12 +16,8 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/colaborations_alt.4f124169.png"
   },
   {
-    "revision": "b00a4b13e7140d104049",
-    "url": "/web-test/static/js/2.8feb52cc.chunk.js"
-  },
-  {
-    "revision": "df600be62b8a1c48267c263cef4ecdd5",
-    "url": "/web-test/static/media/logo.df600be6.png"
+    "revision": "84974f1a156c73f1e810",
+    "url": "/web-test/static/js/2.ea87d00c.chunk.js"
   },
   {
     "revision": "30f43d516b9f5fa3adda8168c52e8ba3",
@@ -32,12 +28,16 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/profile_alt.40fc1ae0.jpg"
   },
   {
-    "revision": "d4467c81a2b88a98b169",
-    "url": "/web-test/static/js/main.f2b027b4.chunk.js"
+    "revision": "aaba307b7fadec3c1522fc059ae7f5d9",
+    "url": "/web-test/static/media/logo_no_name.aaba307b.png"
   },
   {
-    "revision": "0a05286670d723c21b7d33d90639fff5",
-    "url": "/web-test/static/media/main_background_light.0a052866.jpg"
+    "revision": "d3703071aefbb9d61331",
+    "url": "/web-test/static/js/main.8209abbc.chunk.js"
+  },
+  {
+    "revision": "df600be62b8a1c48267c263cef4ecdd5",
+    "url": "/web-test/static/media/logo.df600be6.png"
   },
   {
     "revision": "5b6e4d53583cb5080cddeddcac2252e2",
@@ -56,11 +56,11 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/colaborations.0f8ac1b5.png"
   },
   {
-    "revision": "b00a4b13e7140d104049",
-    "url": "/web-test/static/css/2.680cc954.chunk.css"
+    "revision": "84974f1a156c73f1e810",
+    "url": "/web-test/static/css/2.aef6bc3b.chunk.css"
   },
   {
-    "revision": "bcb4243d8f4f670903576d187da92e88",
+    "revision": "c4e7fcf84e9feb6ce608e2c3f28985e3",
     "url": "/web-test/index.html"
   }
 ];
