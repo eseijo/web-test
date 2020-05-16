@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/main_background_light.0a052866.jpg"
   },
   {
-    "revision": "d3703071aefbb9d61331",
+    "revision": "406c1eea3f262d975274",
     "url": "/web-test/static/css/main.24a0e698.chunk.css"
   },
   {
@@ -32,20 +32,20 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/logo_no_name.aaba307b.png"
   },
   {
-    "revision": "d3703071aefbb9d61331",
-    "url": "/web-test/static/js/main.8209abbc.chunk.js"
+    "revision": "406c1eea3f262d975274",
+    "url": "/web-test/static/js/main.9338388d.chunk.js"
   },
   {
     "revision": "df600be62b8a1c48267c263cef4ecdd5",
     "url": "/web-test/static/media/logo.df600be6.png"
   },
   {
-    "revision": "5b6e4d53583cb5080cddeddcac2252e2",
-    "url": "/web-test/static/media/personalized_consultation1_alt.5b6e4d53.png"
-  },
-  {
     "revision": "941c5993572de38144d8bdfa13bdfe63",
     "url": "/web-test/static/media/workshops1.941c5993.png"
+  },
+  {
+    "revision": "5b6e4d53583cb5080cddeddcac2252e2",
+    "url": "/web-test/static/media/personalized_consultation1_alt.5b6e4d53.png"
   },
   {
     "revision": "4765a7be89655d2b06d17c9e9bc5aab7",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/web-test/static/css/2.aef6bc3b.chunk.css"
   },
   {
-    "revision": "c4e7fcf84e9feb6ce608e2c3f28985e3",
+    "revision": "976b032637bbe15d81a69c02f40d2f63",
     "url": "/web-test/index.html"
   }
 ];
