@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/nutriendo_empresa.ac281ca7.jpeg"
   },
   {
-    "revision": "0c1223f3f04efc1410d6",
-    "url": "/web-test/static/css/main.6dc3a2a4.chunk.css"
+    "revision": "8434ebb33d7f29ebf37b",
+    "url": "/web-test/static/css/main.189c1095.chunk.css"
   },
   {
     "revision": "b13c75971e64f6d85d03",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/profile_alt.ec0d59e6.jpg"
   },
   {
-    "revision": "0c1223f3f04efc1410d6",
+    "revision": "8434ebb33d7f29ebf37b",
     "url": "/web-test/static/js/main.69832a5d.chunk.js"
   },
   {
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/logo.df600be6.png"
   },
   {
-    "revision": "bdc4b0e00b793cb386901d925eee4412",
+    "revision": "1db78f65ce71cfb1025e98a0647d9f15",
     "url": "/web-test/index.html"
   }
 ];
