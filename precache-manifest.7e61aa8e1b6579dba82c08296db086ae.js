@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "ac281ca7814c0ecc21302fdf7c234767",
-    "url": "/web-test/static/media/nutriendo_empresa.ac281ca7.jpeg"
+    "revision": "9230b8a5759cea4f2dc644eeb0d59530",
+    "url": "/web-test/static/media/profile_esc.9230b8a5.jpg"
   },
   {
-    "revision": "6febec9328c38b934865",
-    "url": "/web-test/static/css/main.0e83bd4e.chunk.css"
+    "revision": "248e9205df0c00c48fec",
+    "url": "/web-test/static/css/main.9bb2fcaf.chunk.css"
   },
   {
     "revision": "b13c75971e64f6d85d03",
     "url": "/web-test/static/js/runtime~main.4c29f8fe.js"
   },
   {
-    "revision": "70c6f6b6f156611e70ad",
-    "url": "/web-test/static/js/2.ec70043a.chunk.js"
+    "revision": "3617126b69f14349406a",
+    "url": "/web-test/static/js/2.b5b74531.chunk.js"
   },
   {
     "revision": "aaba307b7fadec3c1522fc059ae7f5d9",
@@ -24,12 +24,8 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/getFetch.013f0b90.cjs"
   },
   {
-    "revision": "9230b8a5759cea4f2dc644eeb0d59530",
-    "url": "/web-test/static/media/profile_esc.9230b8a5.jpg"
-  },
-  {
-    "revision": "6febec9328c38b934865",
-    "url": "/web-test/static/js/main.04765499.chunk.js"
+    "revision": "248e9205df0c00c48fec",
+    "url": "/web-test/static/js/main.4dea9dd3.chunk.js"
   },
   {
     "revision": "bcb187ceca3f43dfe7eb3f4a8d1aacd4",
@@ -48,15 +44,11 @@ self.__precacheManifest = [
     "url": "/web-test/static/media/main_background_light.0a052866.jpg"
   },
   {
-    "revision": "ec0d59e6dd283bccd4862d3351af583b",
-    "url": "/web-test/static/media/profile_alt.ec0d59e6.jpg"
-  },
-  {
     "revision": "df600be62b8a1c48267c263cef4ecdd5",
     "url": "/web-test/static/media/logo.df600be6.png"
   },
   {
-    "revision": "cf668b6f2760513e7565796c1c9190a9",
+    "revision": "2f26e118286b345b03756f8d8a22379b",
     "url": "/web-test/index.html"
   }
 ];
